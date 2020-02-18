@@ -7,3 +7,5 @@ No diretório do projeto, você pode:
 
 <code> yarn start </code>
 Esse comando irá rodar o projeto em modo de desenvolvimento, basta acessar no Browser http://localhost:3000
+
+<img src="https://user-images.githubusercontent.com/35263018/74761658-6859e200-524a-11ea-92e6-1cff5af30b2c.png" />
